@@ -1,6 +1,9 @@
 # Hippocampus Volume Segmentation and Quantification using UNET
 *This is part of the Udaciy AI for Healthcare Nanodegree course projects.*
 
+### Key Words:
+`3D_imaging_data`, `Segmentation`, `U-Net`, `Clinical_Integration`, `MRI`, `PyTorch`
+
 There are three sub-tasks in this project:
 - Curating the "dirty" dataset and obtain the cleaned version of images/labels.
 - Apply a U-net model to 3D MR scans to segment the hippocampal area.
